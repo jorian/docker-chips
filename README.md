@@ -22,7 +22,7 @@ This image contains the chips binaries. It behaves like a binary, so any argumen
     -server=1
 ```
 
-You can also mount a directory in a volume under /home/bitcoin/.bitcoin in case you want to access it on the host:
+You can also mount a directory in a volume under /home/chips/.chips in case you want to access it on the host:
 
 ```sh
     docker run -v ${PWD}/data:/home/chips/.chips --rm -it n41r0j/chips:latest
