@@ -55,3 +55,4 @@ Then in a new terminal window:
 
 - [ ] include an option to download a bootstrap
 - [ ] work out RPC connection
+- [ ] finalize Bet + lightning container
